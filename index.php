@@ -414,7 +414,8 @@
       showOn: "both",
       buttonImage: "images/cal.gif",
       buttonImageOnly: false,
-      buttonText: "Ship Date"
+      buttonText: "Ship Date",
+      showAnim: "blind"
     });
   } );
   </script>
